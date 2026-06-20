@@ -37,3 +37,5 @@ LongestSubstringWithoutRepitition.class
 SubstringWithAllWords.class
 MinimumWindowSubstring.class
 TwoSum.class
+InvertBinaryTree.class
+TreeNode.class
